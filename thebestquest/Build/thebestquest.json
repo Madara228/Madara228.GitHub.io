@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "thebestquest.data.unityweb",
+"asmCodeUrl": "thebestquest.asm.code.unityweb",
+"asmMemoryUrl": "thebestquest.asm.memory.unityweb",
+"asmFrameworkUrl": "thebestquest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
